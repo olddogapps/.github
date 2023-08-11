@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### Nowadays we build smart applications, before we skated on the pond of attempts.
+
+@tkosudi CEO
+
 <!--
 
 **Here are some ideas to get you started:**
