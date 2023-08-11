@@ -1,6 +1,7 @@
 # I'm Old Dog.
 
-[](https://github.com/olddogapps/.github/assets/63622711/f87120e2-c6b4-4c4a-bf0e-93addd45c950)
+![3](https://github.com/olddogapps/.github/assets/63622711/08b119f8-33cf-4560-8683-98e69c713f44)
+
 
 ## Hi there 👋!
 
